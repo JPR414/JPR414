@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JPR414
 - 👀 I’m interested in IOT,PYTHON,MQTT.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning NODE-RED.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jprshow@gmail.com
 
